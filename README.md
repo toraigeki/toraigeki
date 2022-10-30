@@ -2,8 +2,9 @@
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning html/css/javascript
 
-
-![dogjump-byIvanDixon](https://user-images.githubusercontent.com/56487081/198904357-3d77a629-5df4-4dd4-81ce-1fe07316e1d5.gif)
+<p align="center">
+<img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width="100">
+</p>
 
 
 <!---
